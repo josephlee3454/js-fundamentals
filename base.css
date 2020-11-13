@@ -1,0 +1,101 @@
+body{
+    background-color: #0066CC;
+}
+#stupid-header{
+    background-color: red;
+    height:75px;
+    border-radius: 25px;
+    
+
+}
+
+.article-flex{
+    /* background-color:yellow; */
+    margin-top: 3%;
+    display: flex;
+
+
+}
+#list-text-div{
+    margin-left: 35px;
+    margin-bottom: -5%;
+    color: rgba(124, 255, 255, 0.85);
+
+
+}
+#link-list{
+    color: rgba(124, 255, 255, 0.85);
+    background-color: rgba(0, 178, 172, 0.6);
+    border-radius: 25px;
+    width:325px;
+    height: 200px;
+}
+#basics{
+    margin-left: 70px;
+    height: 600px;
+    background-color: rgba(0,0, 0,.8);
+    color:white;
+    width: 78%;
+    border-radius: 25px;
+    
+    
+}
+
+#text-div{
+    padding-top: 15px;
+    margin-left: 50px;
+    font-size:30px;
+    color:white;
+    
+}
+#list-header{
+    text-decoration: underline;
+}
+.indent{
+    margin-left: 10px;
+    list-style-position: inside;
+    list-style-type: circle;
+}
+#mover{
+    height: 600px;
+}
+
+#hello{
+    margin-left: 50px;
+    margin-top: 2.7%;
+    font-size: 27px
+    
+}
+#p{
+    margin-left:3%;
+    width: 950%;
+
+}
+.lister{
+    margin-top: 1%;
+    margin-left:1%;
+    
+    justify-content: space-around;
+    
+}
+#footer{       
+       
+    text-decoration-color: blue;  
+    background-color: rgba(160, 160, 160, 0.4);
+    margin-top: 116px;
+    border-radius: 25px;
+    height: 70px;
+    color:white;
+    display:flex;
+    
+   
+}
+.under-blue{
+    text-decoration: underline;     
+    color: rgba(124, 255, 255, 0.85);
+}
+#texter{
+    margin-left: 25px;
+    margin-top: 1%;
+    display:flex;
+}
